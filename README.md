@@ -14,6 +14,8 @@ Languages: JavaScript , HTML , CSS , C , C++ , C# , RUBY , PHP , PYTHON , BASH
 
 Technologies: Node Js , Express Js
 
+Operating Systems: Android , Windows , Linux , Kali Linux
+
 Areas of Interest: Web Development , Ethical Hacking
 
 📫 How to Reach Me
