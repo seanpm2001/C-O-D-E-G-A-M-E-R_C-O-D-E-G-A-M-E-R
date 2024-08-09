@@ -1,0 +1,28 @@
+Hi there! 👋
+
+I'm Sreeraj, and I'm passionate about web development and ethical hacking. I'm also a JavaScript enthusiast, always eager to learn and explore new technologies.
+
+🚀 About Me
+
+🌱 I’m currently learning more about advanced JavaScript frameworks and cybersecurity practices.
+💻 I love building secure, dynamic web applications.
+💡 I'm interested in collaborating on projects related to web development and ethical hacking.
+
+💼 Skills
+
+Languages: JavaScript, HTML, CSS,C,C++,C#,Ruby,Php,Python,Bash
+
+Technologies: Node Js,Express Js
+
+Areas of Interest: Web Development, Ethical Hacking
+
+📫 How to Reach Me
+
+sreekuttan2156239@gmail.com
+https://www.instagram.com/s_r_e_e_r_a__j?igsh=MWM1MWlvczVubDY0bA==
+
+
+
+
+
+Upgrade to ChatGPT
