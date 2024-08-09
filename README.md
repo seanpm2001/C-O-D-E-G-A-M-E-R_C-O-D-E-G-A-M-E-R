@@ -10,7 +10,7 @@ I'm Sreeraj, and I'm passionate about web development and ethical hacking. I'm a
 
 💼 Skills
 
-Languages: JavaScript , HTML , CSS , C , C++ , C# , Ruby , Php , Python , Bash
+Languages: JavaScript , HTML , CSS , C , C++ , C# , RUBY , PHP , PYTHON , BASH
 
 Technologies: Node Js , Express Js
 
